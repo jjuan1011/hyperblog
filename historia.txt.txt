@@ -1,22 +1,24 @@
 
-VERSIÓN 0
-EMPEZAMOS SIN TEXTO EN LA VERSIÓN UNO por ello la llamamos VERSION 0
+        VERSIÓN 0
+        EMPEZAMOS SIN TEXTO EN LA VERSIÓN UNO por ello la llamamos VERSION 0
 
-VERSIÓN 1: ME PICA EL CULO
+        VERSIÓN 1: ME PICA EL CULO
 
-VERSIÓN 2: SERÉ TAN RICO QUE NI YO MISMO ME LO CREA
+        VERSIÓN 2: SERÉ TAN RICO QUE NI YO MISMO ME LO CREA
 
-VERSIÓN 3: En esta VERSION corregimos todos los errores. 
-               
-                SERÉ CEO PRONTO
+        VERSIÓN 3: En esta VERSION corregimos todos los errores. 
+                    
+                        SERÉ CEO PRONTO
 
-VERSIÓN 4: PRONTO, PRONTO, EMPEZAREMOS CON UN PLAN DE ESTUDIOS 
-           Y DE EMPRENDIMIENTO, TODO UN COMPLOT DE INFORMACIÓN 
-           QUE NOS LLEVARÁ A LA CIMA.
+        VERSIÓN 4: PRONTO, PRONTO, EMPEZAREMOS CON UN PLAN DE ESTUDIOS 
+                Y DE EMPRENDIMIENTO, TODO UN COMPLOT DE INFORMACIÓN 
+                QUE NOS LLEVARÁ A LA CIMA.
 
-VERSION 5: LO VAMOS A LOGRAR GRACIAS AL SURGIMIENTO DE 
-                    NEMESIQ PROJECT
-                 
-VERSIÓN FLUJO DE TRABAJO:
+        VERSION 5: LO VAMOS A LOGRAR GRACIAS AL SURGIMIENTO DE 
+                            NEMESIQ PROJECT
+                        
+        VERSIÓN FLUJO DE TRABAJO:
              Este es el primer commit que va a hacer nuestro colaborador
 
+
+VERSIÓN CORREIÓN: En esta versión indentamos el codigo ya que el jefe nos lo pidió
