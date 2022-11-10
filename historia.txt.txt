@@ -17,5 +17,6 @@ VERSIÓN 4: PRONTO, PRONTO, EMPEZAREMOS CON UN PLAN DE ESTUDIOS
 VERSION 5: LO VAMOS A LOGRAR GRACIAS AL SURGIMIENTO DE 
                     NEMESIQ PROJECT
                  
-
+VERSIÓN FLUJO DE TRABAJO:
+             Este es el primer commit que va a hacer nuestro colaborador
 
